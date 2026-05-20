@@ -108,6 +108,18 @@
     "clear_first": true
   },
   {
+    "label": "北ヨット強盗 11",
+    "group_names": ["north_yacht", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
+    "label": "サンディショア空港襲撃 12",
+    "group_names": ["airport", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
     "label": "警察署襲撃 ∞",
     "group_names": ["police_station_raid"],
     "group": "特殊",
