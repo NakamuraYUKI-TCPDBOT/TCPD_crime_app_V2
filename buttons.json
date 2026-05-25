@@ -54,7 +54,7 @@
     "clear_first": true
   },
   {
-    "label": "客船強盗 11",
+    "label": "北・南客船強盗 11",
     "group_names": ["yacht", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
@@ -78,7 +78,7 @@
     "clear_first": true
   },
   {
-    "label": "飛行場襲撃 12",
+    "label": "S.S.空港・飛行場襲撃 12",
     "group_names": ["deluxe_car", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
@@ -104,18 +104,6 @@
   {
     "label": "ヒューマンラボ 14",
     "group_names": ["humane_labs", "robbery_weapon", "npckill", "playerkill"],
-    "group": "大型",
-    "clear_first": true
-  },
-  {
-    "label": "北ヨット強盗 11",
-    "group_names": ["north_yacht", "robbery_weapon", "npckill", "playerkill"],
-    "group": "大型",
-    "clear_first": true
-  },
-  {
-    "label": "サンディショア空港襲撃 12",
-    "group_names": ["airport", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
   },
