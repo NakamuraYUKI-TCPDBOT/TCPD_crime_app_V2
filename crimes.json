@@ -35,7 +35,5 @@
   {"name": "アーティファクト","fine": 1000,"prison": 30,"group": ["artifact"],"input": false,"visible": true},
   {"name": "市長の工場強盗","fine":1500,"prison": 30,"group": ["mayor_factory"],"input": false,"visible": true},
   {"name": "ヒューマンラボ","fine":1000,"prison": 30,"group": ["humane_labs"],"input_fine": false,"visible": true},
-  {"name": "北ヨット強盗","fine":600,"prison": 25,"group": ["north_yacht"],"input_fine": false,"visible": true},
-  {"name": "サンディショア空港襲撃","fine":700,"prison": 30,"group": ["airport"],"input_fine": false,"visible": true},
   {"name": "警察署襲撃","fine": 15000,"prison": 60,"group": ["police_station_raid"],"input": false,"allow_prison_over": true,"visible": true}
 ]
