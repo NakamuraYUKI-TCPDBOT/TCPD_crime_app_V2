@@ -114,7 +114,7 @@
     "clear_first": true
   },
   {
-    "label": "サンディショア空港襲撃 12",
+    "label": "S.S.空港襲撃 12",
     "group_names": ["sandyshoresairport", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
     "clear_first": true
