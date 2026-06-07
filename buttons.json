@@ -31,7 +31,7 @@
   },
   {
     "label": "宝石強盗 7+2",
-    "group_names": ["vangelico", "robbery_weapon", "hostage"],
+    "group_names": ["vangelico", "robbery_weapon", "playerkill"],
     "group": "中型",
     "clear_first": true
   },
