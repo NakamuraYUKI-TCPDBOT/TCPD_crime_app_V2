@@ -42,7 +42,7 @@
     "clear_first": true
   },
   {
-    "label": "サーマイトミッション 6",
+    "label": "サーマルミッション 6",
     "group_names": ["thermite", "robbery_weapon", "npckill", "playerkill"],
     "group": "中型",
     "clear_first": true
