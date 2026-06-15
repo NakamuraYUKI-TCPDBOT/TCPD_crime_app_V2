@@ -25,7 +25,7 @@
   {"name": "宝石強盗","fine": 400,"prison": 10,"group": ["vangelico"],"input": false,"visible": true},
   {"name": "カニバル強盗","fine": 400,"prison": 10,"group": ["cannibal"],"input": false,"visible": true},
   {"name": "ブースティングS,A","fine": 500,"prison": 10,"group": ["boost_high"],"input": false,"visible": true},
-  {"name": "サーマルミッション","fine": 500,"prison": 10,"group": ["thermite"],"input": false,"visible": true},
+  {"name": "サーマルミッション","fine": 250,"prison": 10,"group": ["thermite"],"input": false,"visible": true},
   {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false,"visible": true},
   {"name": "客船強盗","fine": 600,"prison": 25,"group": ["yacht"],"input": false,"visible": true},
   {"name": "パレト銀行強盗","fine": 800,"prison": 25,"group": ["paleto"],"input": false,"visible": true},
