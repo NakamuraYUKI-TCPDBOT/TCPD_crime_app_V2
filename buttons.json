@@ -48,6 +48,12 @@
     "clear_first": true
   },
   {
+    "label": "現金輸送車強盗 6",
+    "group_names": ["cashtruck", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
     "label": "ブースティングS,A 4",
     "group_names": ["boost_high", "robbery_weapon", "npckill"],
     "group": "中型",
