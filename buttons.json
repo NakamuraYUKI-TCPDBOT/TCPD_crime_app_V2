@@ -54,6 +54,12 @@
     "clear_first": true
   },
   {
+    "label": "飛行機墜落 7",
+    "group_names": ["plane_crash", "robbery_weapon", "npckill", "playerkill"],
+    "group": "中型",
+    "clear_first": true
+  },
+  {
     "label": "ブースティングS,A 4",
     "group_names": ["boost_high", "robbery_weapon", "npckill"],
     "group": "中型",
