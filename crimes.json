@@ -27,6 +27,7 @@
   {"name": "ブースティングS,A","fine": 500,"prison": 10,"group": ["boost_high"],"input": false,"visible": true},
   {"name": "サーマルミッション","fine": 250,"prison": 10,"group": ["thermite"],"input": false,"visible": true},
   {"name": "現金輸送車強盗","fine": 150,"prison": 10,"group": ["cashtruck"],"input": false,"visible": true},
+  {"name": "飛行機墜落","fine": 350,"prison": 10,"group": ["plane_crash"],"input": false,"visible": true},
   {"name": "ボブキャット襲撃","fine": 500,"prison": 25,"group": ["bobcat"],"input": false,"visible": true},
   {"name": "客船強盗","fine": 600,"prison": 25,"group": ["yacht"],"input": false,"visible": true},
   {"name": "パレト銀行強盗","fine": 800,"prison": 25,"group": ["paleto"],"input": false,"visible": true},
