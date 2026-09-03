@@ -132,6 +132,12 @@
     "clear_first": true
   },
   {
+    "label": "ライフインベーダー 9",
+    "group_names": ["life_inv", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
     "label": "北ヨット強盗 9",
     "group_names": ["north_yacht", "robbery_weapon", "npckill", "playerkill"],
     "group": "大型",
