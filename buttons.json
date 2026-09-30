@@ -150,6 +150,12 @@
     "clear_first": true
   },
   {
+    "label": "ブラック・ソナー 10",
+    "group_names": ["blacksonar", "robbery_weapon", "npckill", "playerkill"],
+    "group": "大型",
+    "clear_first": true
+  },
+  {
     "label": "警察署襲撃 ∞",
     "group_names": ["police_station_raid"],
     "group": "特殊",
