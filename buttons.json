@@ -18,6 +18,12 @@
     "clear_first": true
   },
   {
+    "label": "住宅・下着強盗 2+1",
+    "group_names": ["lingerie_robbery"],
+    "group": "小型",
+    "clear_first": true
+  },
+  {
     "label": "ブースティングB,C,D 4",
     "group_names": ["boost_lower","robbery"],
     "group": "小型",
