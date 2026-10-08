@@ -13,7 +13,7 @@
   },
   {
     "label": "標識強盗",
-    "group_names": ["sign_robbery"],
+    "group_names": ["sign_robbery","robbery_weapon","hostage","npckill"],
     "group": "小型",
     "clear_first": true
   },
