@@ -44,5 +44,5 @@
   {"name": "北ヨット強盗","fine":1200,"prison": 90,"group": ["north_yacht"],"input_fine": false,"allow_prison_over": true,"visible": true},
   {"name": "サンディショア空港襲撃","fine":1400,"prison": 90,"group": ["sandyshoresairport"],"input_fine": false,"allow_prison_over": true,"visible": true},
   {"name": "ブラック・ソナー","fine":800,"prison": 90,"group": ["blacksonar"],"input_fine": false,"allow_prison_over": true,"visible": true},
-  {"name": "警察署襲撃","fine": 15000,"prison": 0,"group": ["police_station_raid"],"input": false,"allow_prison_over": true,"visible": true}
+  {"name": "警察署襲撃","fine": 15000,"prison": 20,"group": ["police_station_raid"],"input": false,"allow_prison_over": true,"visible": true}
 ]
